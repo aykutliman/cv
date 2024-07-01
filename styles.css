@@ -1,0 +1,39 @@
+html {
+    background-color: white;
+}
+
+h1 {
+    color: black;  
+}
+
+h3 {
+    color: black;
+}
+
+img {
+    border-radius: 50%;
+    height: 180px;
+    width: 180px;
+    margin: 0 20px;
+}
+
+p {
+    color: black;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+}
+  
+td {
+    text-align: left;
+    padding: 8px;
+}
+  
+.head-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
